@@ -7,7 +7,7 @@
 - <b>PowerShell</b>
 
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [FIM (File Integrity Monitor)](https://github.com/Syed-Farhaan/FileIntegrityMonitoring)
 
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
