@@ -1,4 +1,7 @@
 <h1>Hi, I'm Syed! 
+Focused on cybersecurity, with hands-on experience using a wide range of tools and platforms for planning and responding to cybersecurity incidents, from endpoint protection to network assessment and monitoring
+
+
 <h2>👨‍💻 Projects:</h2>
 
 - <b> Cybersecurity </b>
