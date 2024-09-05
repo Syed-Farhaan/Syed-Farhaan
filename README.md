@@ -20,7 +20,11 @@
 
 <h2> 🤳 Connect with me:</h2>
 <a href="https://www.linkedin.com/in/syedfarhaan">
-  <img align="left" alt="SyedFarhaan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  <svg xmlns="http://www.w3.org/2000/svg" role="img" viewBox="0 0 24 24" width="22" height="22" fill="white">
+    <title>LinkedIn</title>
+    <path d="M19 0h-14c-2.76 0-5 2.24-5 5v14c0 2.76 2.24 5 5 5h14c2.76 0 5-2.24 5-5v-14c0-2.76-2.24-5-5-5zm-11.75 20.5h-3v-10.75h3v10.75zm-1.5-12.25c-.96 0-1.75-.78-1.75-1.75 0-.97.79-1.75 1.75-1.75s1.75.78 1.75 1.75c0 .97-.79 1.75-1.75 1.75zm13.25 12.25h-3v-5.5c0-1.47-.03-3.38-2.06-3.38-2.07 0-2.39 1.62-2.39 3.28v5.6h-3v-10.75h2.88v1.47h.04c.4-.76 1.37-1.56 2.82-1.56 3.02 0 3.58 1.99 3.58 4.58v6.26z"/>
+  </svg>
 </a>
+
 
 
