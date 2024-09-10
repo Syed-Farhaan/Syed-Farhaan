@@ -21,10 +21,7 @@
 - <a href="https://www.credly.com/badges/f026c8b4-e433-440e-be9c-f8e55d0b0d09/public_url">Comptia Security +</a> <br>
 - <a href="https://www.credly.com/badges/c49d327f-2785-4eac-9251-f28a885af68b/public_url">Certified in Cybersecurity (CC) ISC2 +</a>
 
-<h2> 🤳 Connect with me:</h2>
-<a href="https://www.linkedin.com/in/syedfarhaan">
-  <img align="left" alt="SyedFarhaan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+
 
 
 
