@@ -8,6 +8,7 @@
   - [Active Directory and Splunk Project](https://github.com/Syed-Farhaan/ActiveDirectory)
   - [Analyzing Wireless Access Point](https://github.com/Syed-Farhaan/AnalyzingWirelessAccessPoint)
   - [Network Reconnaisance and Scanning](https://github.com/Syed-Farhaan/Network-Reconnaissance-And-Scanning)
+  - [Insure Tech Network Security Design](https://github.com/Syed-Farhaan/Insure-Tech-Network-Security-Design/tree/main)
 
 - <b>PowerShell</b>
   - [FIM (File Integrity Monitor)](https://github.com/Syed-Farhaan/FileIntegrityMonitoring)
