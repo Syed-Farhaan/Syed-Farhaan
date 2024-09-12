@@ -9,6 +9,7 @@
   - [Analyzing Wireless Access Point](https://github.com/Syed-Farhaan/AnalyzingWirelessAccessPoint)
   - [Network Reconnaisance and Scanning](https://github.com/Syed-Farhaan/Network-Reconnaissance-And-Scanning)
   - [Insure Tech Network Security Design](https://github.com/Syed-Farhaan/Insure-Tech-Network-Security-Design/tree/main)
+  - [Network Security Assessment Using Nmap](https://github.com/Syed-Farhaan/Network-Security-Assessment-Using-Nmap/tree/main)
 
 - <b>PowerShell</b>
   - [FIM (File Integrity Monitor)](https://github.com/Syed-Farhaan/FileIntegrityMonitoring)
